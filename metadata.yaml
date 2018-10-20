@@ -1,5 +1,5 @@
 _repo: Barbara-Blomberg-Volume-09_5569
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Holy Roman Empire -- History -- Charles V, 1519-1556 -- Fiction'
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
+- GITenberg
 title: Barbara Blomberg — Volume 09
 url: http://www.gutenberg.org/ebooks/5569
